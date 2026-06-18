@@ -1,7 +1,7 @@
 # Joseph Barbosa
 
 AI/ML engineer working at the intersection of product and research.
-CS @ Waterloo · BBA @ Laurier · Currently at ESGTree.
+CS @ Waterloo · BBA @ Laurier · Currently @ Scotiabank.
 
 ## Selected work
 
@@ -13,3 +13,4 @@ CS @ Waterloo · BBA @ Laurier · Currently at ESGTree.
 ## Elsewhere
 
 - [LinkedIn](https://linkedin.com/in/joseph-c-barbosa)
+- [Portfolio](https://josephbarbosa.com)
