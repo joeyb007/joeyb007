@@ -12,5 +12,4 @@ CS @ Waterloo · BBA @ Laurier · Currently @ Scotiabank.
 
 ## Elsewhere
 
-- [LinkedIn](https://linkedin.com/in/joseph-c-barbosa)
-- [Portfolio](https://josephbarbosa.com)
+- [LinkedIn](https://linkedin.com/in/joseph-c-barbosa) | [Portfolio](https://josephbarbosa.com)
